@@ -108,7 +108,7 @@ function App() {
                     transform: 'translateY(-50%)',
                     width: '50%'}}>
                   <h1 className="display-5 fw-bold mb-4">
-                  Pequenas atitudes no dia a dia podem transformar o futuro do nosso planeta. Separar o lixo corretamente, 
+                  Pequenas atitudes no dia a dia podem transformar o futuro do nosso planeta. Separar o lixo corretamente. 
                   </h1>
                   
                 </div>
